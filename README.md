@@ -1,3 +1,3 @@
 # votesmart
 
-Describe your project here.
+LLM assisted ballot research for Harris County Texas.

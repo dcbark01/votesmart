@@ -10,3 +10,32 @@
 #   universal: false
 
 -e file:.
+annotated-types==0.7.0
+    # via pydantic
+fawltydeps==0.17.0
+importlib-metadata==8.5.0
+    # via fawltydeps
+iniconfig==2.0.0
+    # via pytest
+isort==5.13.2
+    # via fawltydeps
+packaging==24.1
+    # via fawltydeps
+    # via pip-requirements-parser
+    # via pytest
+pip-requirements-parser==32.0.1
+    # via fawltydeps
+pluggy==1.5.0
+    # via pytest
+pydantic==2.9.2
+    # via fawltydeps
+pydantic-core==2.23.4
+    # via pydantic
+pyparsing==3.2.0
+    # via pip-requirements-parser
+pytest==8.3.3
+typing-extensions==4.12.2
+    # via pydantic
+    # via pydantic-core
+zipp==3.20.2
+    # via importlib-metadata
