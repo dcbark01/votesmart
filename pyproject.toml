@@ -1,0 +1,18 @@
+[project]
+name = "votesmart"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "Barker, Daniel C.", email = "daniel.barker@gtri.gatech.edu" }
+]
+dependencies = []
+readme = "README.md"
+requires-python = ">= 3.8"
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+[tool.rye]
+managed = true
+dev-dependencies = []
